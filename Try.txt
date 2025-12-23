@@ -1,1 +1,3 @@
-Hi there this is my first attempt to create and connect the git hub
+Hi there this is my first attempt to create and connect to the github
+
+so this is an secong attempt
