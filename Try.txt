@@ -4,7 +4,7 @@ so this is an secong attempt
 
 The following commands are used for the control of github
 
-1. git --version # to know the github version
+1. git --version # To know the github version
 2. git config --global user.name "Kingofstates" # To set the user name
 3. git config --global user.email "hackdemo18@gmail.com" # To set the user email
 4. git config --list # To get the list 
