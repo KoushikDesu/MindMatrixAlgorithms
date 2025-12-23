@@ -16,4 +16,5 @@ The following commands are used for the control of github
 10. git add Try.txt # To add a particular Repositorys
 11. git  commit -m "message" # To commit the changes 
 12. git push -u origin main # To push the changes
-13. git config --global credential.helper store # For the storing of credentials
+13. git push # It can be used to push casually
+14. git config --global credential.helper store # For the storing of credentials
