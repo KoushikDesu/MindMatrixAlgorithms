@@ -1,3 +1,19 @@
 Hi there this is my first attempt to create and connect to the github
 
 so this is an secong attempt
+
+The following commands are used for the control of github
+
+1. git --version # to know the github version
+2. git config --global user.name "Kingofstates" # To set the user name
+3. git config --global user.email "hackdemo18@gmail.com" # To set the user email
+4. git config --list # To get the list 
+5. git remote add origin https://github.com/KoushikDesu/MindMatrixAlgorithms  # Repositorys link for the control
+6. git remote -v # To identify the access
+7. git branch -m main # To set the default branch as the main branch
+8. git init # To initialize the current folder as the  Repositorys
+9. git add . # To add all the current files to the Repositorys
+10. git add Try.txt # To add a particular Repositorys
+11. git  commit -m "message" # To commit the changes 
+12. git push -u origin main # To push the changes
+13. git config --global credential.helper store # For the storing of credentials
